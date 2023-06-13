@@ -1,2 +1,3 @@
-### Здравствуйте 👋
-![image](https://github.com/andsmlle/andsmlle/assets/133951628/1fce6f12-c9e2-459d-8e23-3311dd3bbc68)
+### Здравствуйте 👋 Меня зовут Исмаил и я стдуент СГТУ
+
+![image](https://github.com/andsmlle/andsmlle/assets/133951628/d909f19c-5d77-4f85-896c-ac1b508b4ec7) 
